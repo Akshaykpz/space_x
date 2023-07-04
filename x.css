@@ -1,0 +1,258 @@
+
+body{
+    margin: 0%;
+    padding: 0%;
+   overflow:auto;
+
+}
+.header{
+    margin: 0%;
+}
+.nav{
+display: flex;
+position: fixed;
+
+
+}
+
+.hdr2{
+    width: 100%;
+    float: left;
+}  
+
+.opppo img{
+    width: 100%;
+    margin: 26px;
+}
+.opppo{
+  flex: 1;
+  padding: 10px  100px; 
+
+
+}
+.next{
+    padding: 50px 50px;  
+   
+}
+.mash a{
+    color: white;
+    font-size:medium;
+    margin: 20px;
+text-decoration: none;
+}
+
+.power{
+  color:white;
+    text-decoration: none;
+    margin-left: 20px;
+}
+.pops{
+    width: 100%;
+    height: 100vh;
+    background-image: url(love.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    
+}
+.son{
+width: 50%;
+color: white;
+float: left;
+margin-top: 30%;
+margin-left: 123px;
+   
+
+}
+.son h3{
+    font-size: 40px;
+}  
+.polll{
+    font-size: x-large;
+}   
+.son button{
+   
+    padding: 10px 25px;
+   background: transparent;
+    border:solid white 1px;
+    color:white;
+    border-radius: 5px;
+    
+} 
+
+.son button:hover{
+background-color: white;
+transition: 1s;
+color: black;
+   
+}
+.seven{
+    background-image: url(desk.jpg);
+width: 100%;
+height: 100vh;
+background-repeat: no-repeat;
+background-size: cover;
+background-position: center;
+display: flex;
+    } 
+    .seven button:hover{
+        background-color: white;
+        transition: 1s;
+        color: black;
+           
+        }
+
+.zero{
+    flex: 1;
+    padding: 500px 300px;
+    color:white;
+    font-size:x-large;
+}
+.seven .zero h3 {
+    font-size: 35px;
+  }
+  
+.seven button {
+    padding: 10px 25px;
+    background: transparent;
+     border:solid white 1px;
+     color:white;
+     border-radius: 5px;
+
+}
+
+.pen{
+    background-image: url(swot.jpg);
+    width: 100%;
+height: 100vh;
+background-repeat: no-repeat;
+background-size: cover;
+background-position: center;
+display: flex;
+}
+.remos{
+    flex: 1;
+    padding: 500px 300px;
+    color:white;
+    font-size:x-large;
+
+}
+.pen .remos h3{
+    font-size: 35px;
+}
+.remos button{
+    padding: 10px 25px;
+    background: transparent;
+     border:solid white 1px;
+     color:white;
+     border-radius: 5px;
+
+}
+.vipro .qutee h3{
+    font-size: 35px;
+}
+.vipro{
+
+    background-image: url(homee.webp);
+    width: 100%;
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    display: flex;
+
+}
+.qutee {
+    flex: 1;
+    padding: 500px 300px;
+    color:white;
+    font-size:x-large;
+
+
+}
+.qutee button {
+    padding: 10px 25px;
+    background: transparent;
+    border: solid white 1 px
+    ;
+    color: white;
+    border-radius: 5px;
+  }
+  
+  
+    .major{
+        background-image: url(dec.webp);
+        width: 100%;
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    position: relative;
+
+    }
+    .summor{
+        flex: 1;
+    left: 250px;
+    top: 450px;
+    color:white;
+    font-size:x-large;
+    position: absolute;
+    
+    }
+  
+    .summor button{
+        padding: 10px 25px;
+        background: transparent;
+         border:solid white 1 px;
+         color:white; 
+         border-radius: 5px;
+
+    }
+    .solo{
+        background-color: black;
+       
+       padding: 40px;
+        
+    }
+.footer{
+   margin: 0%;
+   
+   
+}
+
+.centre{
+    width: 60%;
+   
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+} 
+
+.box1{
+    color: aliceblue;
+   
+    text-decoration: none;
+   
+    font-size: small;
+     margin-right: 27px;
+}  
+
+.solo h4{
+margin: 0px;
+
+}   
+
+.box1 a{
+    color: white;
+   
+    
+    
+}
+
+
+
+
+
+
